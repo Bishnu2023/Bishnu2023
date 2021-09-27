@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bishnu Prasad Singh.
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development, Competitive Programming.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Drop me mail on bpsingh4040@gmail.com
